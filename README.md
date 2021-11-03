@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sumit Rai</h1>
-  <p align="left"> <img src="https://github.com/sumit2607/LiveData/blob/master/android.gif" alt="sumit2607" /> </p>
-<h3 align="center">A passionate Full Stack Android developer from India</h3>
+ <h3 align="center">A passionate Full Stack Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit2607&label=Profile%20views&color=0e75b6&style=flat" alt="sumit2607" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit2607" alt="sumit2607" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sumitra93078670" target="blank"><img src="https://img.shields.io/twitter/follow/sumitra93078670?logo=twitter&style=for-the-badge" alt="sumitra93078670" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **Android Development**
 
@@ -19,6 +20,8 @@
 - 📫 How to reach me **https://www.linkedin.com/in/sumit-rai-a494b01ba/**
 
 - 📄 Know about my experiences [https://sumit-rai.netlify.app/](https://sumit-rai.netlify.app/)
+
+ <p align="left"> <img src="https://github.com/sumit2607/LiveData/blob/master/android.gif" width="500" hight = "320"  /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
