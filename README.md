@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Rai</h1>
+    <img src="https://drive.google.com/file/d/11Pd3sCgnBces5f26phrbSE_3OYZhRI4k/view?usp=sharing" /> 
 <h3 align="center">A passionate Full Stack Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit2607&label=Profile%20views&color=0e75b6&style=flat" alt="sumit2607" /> </p>
